@@ -1,17 +1,12 @@
 ### Introduction
 
-🔭 I’m currently working on KT ds as SW Engineer of [Beast](https://blog.naver.com/PostView.naver?blogId=ktds_official&logNo=223398274552&redirect=Dlog&widgetTypeCall=true&topReferer=https%3A%2F%2Fwww.google.com%2F&trackingCode=rss&directAccess=false) and previously developed [KT BigSight](https://bigsight.kt.com).
+Python·Java 기반 백엔드, 데이터 모델링, LLM/RAG 파이프라인, AI 가드레일, MCP 통신 설계/개발, Azure·AKS 운영까지 AI/웹 서비스 전 주기 아키텍처를 설계·개발·운영했습니다. 대규모 빅데이터 웹 서비스에서 총 5억 규모 프로젝트를 3건 완수했으며 담당한 서비스들의 성능 개선·운영 자동화·안정성 확보를 이뤄 KT DS CEO 표창, KT 품질혁신상을 수상했습니다.
 
 ⚡ My Vision is, 사람들의 삶의 질 증진에 기여하기 위한 서비스 개발
 
-📫 My abilities and experiences are
-- ‘kt 마케팅코치’, ‘kt빅사이트` 웹 서비스를 개발/운영하며 5억 규모 이상의 3개 주요 ITO 프로젝트와 3개 업무를 완수하여 서비스 개선, 매출 향상 기여, 연 1억의 운영 비용 절감
-- Java & Spring 기반 백엔드 개발/운영자
-- MySQL, PostgreSQL, MyBatis, JPA, QueryDSL 기반 데이터 모델링/DBMS 운영/데이터 처리 경험
+😄 Let me introduce myself with my resume/portfolio, [resume.pdf](https://github.com/user-attachments/files/24433941/_AI.pdf) | [Technical Project Portfolio](https://www.rallit.com/resumes/1605811@stam0325/%EC%8B%A0%EB%8F%99%EB%AF%BC) | [Notion (Projects & Architecture)](https://evan-portfolio.notion.site/e80121ba5b3544d090a68339ac134162?pvs=74), [Blog](https://carnival.tistory.com/)
 
-😄 Let me introduce myself with my resume/portfolio, [resume.pdf](https://github.com/user-attachments/files/22868704/Resume_250919_4.pdf), [Notion Portfolio](https://evan-portfolio.notion.site/e80121ba5b3544d090a68339ac134162?pvs=74), [Blog](https://carnival.tistory.com/)
-
-🌱 I’m currently learning Spring, JPA, Cloud Native
+🌱 I’m currently learning Spring, JPA, FastAPI, LLM, AI
 
 ### Certification
 
