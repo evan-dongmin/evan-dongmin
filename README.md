@@ -5,6 +5,7 @@ Python·Java 기반 백엔드, 데이터 모델링, LLM/RAG 파이프라인, AI 
 제 인생 목표는 사람들의 삶의 질 증진에 기여하기 위한 서비스 개발입니다.
 
 저의 자세한 이력을 아래 이력서와 포트폴리오로 소개 드립니다.
+
 [resume.pdf](https://github.com/user-attachments/files/24433941/_AI.pdf) | [Technical Project Portfolio](https://www.rallit.com/resumes/1605811@stam0325/%EC%8B%A0%EB%8F%99%EB%AF%BC) | [Notion (Projects & Architecture)](https://evan-portfolio.notion.site/e80121ba5b3544d090a68339ac134162?pvs=74), [Blog](https://carnival.tistory.com/)
 
 현재 Spring, JPA, FastAPI, LLM, AI에 관심을 갖고 학습 및 사이드 프로젝트 진행 중입니다.  
